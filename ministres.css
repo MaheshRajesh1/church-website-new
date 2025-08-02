@@ -37,14 +37,12 @@ body{
 #home{
     text-decoration: none;
     color: rgb(239, 75, 16);
-    font-size: 20px;
     text-align: center;
     position: relative;
-    bottom: 2px;
-    left: 680px;
+    right: 50px;
 }
 #home:hover{
-   color: rgb(117, 94, 76);
+    color: rgb(54, 18, 5);
 }
 #q{
     color: rgb(124, 124, 124);
@@ -62,174 +60,295 @@ body{
     bottom: 60px;
     left: 40px;
 }
-#x{
-    background-color: rgb(242, 233, 215);
+#moni{
     width: 1513px;
-    height: 1800px;
+    height: 1400px;
+    background-color: rgb(242, 233, 215);
     position: relative;
-    padding-top: 100px;  
-}
-#ser{
-    color: rgb(255, 162, 0);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    position: relative;
-    left: 50%;
-    bottom:10px;   
-}
-#recent{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: black;
-    position: relative;
-    left: 620px;
-    top: 0%;
-    font-size: 50px;
-}
-#coc{
-    width: 480px;
-    height: 300px;
-    padding-left: 50px;
-    position: relative;
-    top: 100px;
     
-    padding-left: 100px;
 }
-#by{
-    color: rgb(97, 84, 84);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+#ministry1{
+    width: 400px;
+    height: 500px;
+    background-color: white;
     position: relative;
-    left: 100px;
-    bottom: 370px;
+    left: 50px;
+    top: 150px;
+    box-shadow: 5px 5px 7px black;
 }
-#the{
-     color: rgb(16, 16, 16);
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     position: relative;
-     left:100px ;
-     bottom: 355px;
+#con1{
+    width: 400px;
+    height: 290px;
 }
-#away{
-     color: rgb(97, 84, 84);
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     position: relative;
-     left:100px ;
-     bottom: 330px;
+#women{
+    font-size: x-large;
+    padding: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#far1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    padding: 20px;
+    position: relative;
+    bottom: 30px;
+    color: rgb(161, 155, 155);
+}
+#btn1{
+     border-radius: 30px;
+    text-decoration: none;
+    position: relative;
+    left: 3%;
+    bottom: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 5px 7px black;
+}
+
+#btn1:hover{
+    background-color: white;
+    color: rgb(255, 136, 0);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px black;
+}
+#ministry2{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    position: relative;
+    left: 550px;
+    bottom: 345px;
+    box-shadow: 5px 5px 7px black;
+}
+#con2{
+    width: 400px;
+    height: 290px;
+}
+#children{
+    font-size: x-large;
+    padding: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#far2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    padding: 20px;
+    position: relative;
+    bottom: 30px;
+    color: rgb(161, 155, 155);
+}
+#btn2{
+     border-radius: 30px;
+    text-decoration: none;
+    position: relative;
+    left: 3%;
+    bottom: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 5px 7px black;
+}
+
+#btn2:hover{
+    background-color: white;
+    color: rgb(255, 136, 0);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px black;
+}
+#ministry3{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    position: relative;
+    left: 1050px;
+    bottom: 843px;
+    box-shadow: 5px 5px 7px black;
+}
+#con3{
+    width: 400px;
+    height: 290px;
+}
+#personal{
+    font-size: x-large;
+    padding: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#far3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    padding: 20px;
+    position: relative;
+    bottom: 30px;
+    color: rgb(161, 155, 155);
 }
 #btn3{
-    border-radius: 30px;
+     border-radius: 30px;
     text-decoration: none;
     position: relative;
-    left: 100px;
-    bottom: 310px;
+    left: 3%;
+    bottom: 20px;
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-shadow: 5px 5px 7px black;
 }
+
 #btn3:hover{
     background-color: white;
-    color: rgb(255, 170, 0);
+    color: rgb(255, 136, 0);
     transition-duration: 1s;
        box-shadow: 5px 5px 7px black;
 }
-#by2{
-    color: rgb(97, 84, 84);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+#ministry4{
+    width: 400px;
+    height: 500px;
+    background-color: white;
     position: relative;
-    left: 600px;
-    bottom: 517px;
+    left: 50px;
+    bottom: 700px;
+    box-shadow: 5px 5px 7px black;
 }
-#the2{
-     color: rgb(11, 11, 11);
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     position: relative;
-     left:600px ;
-     bottom: 500px;
+#con4{
+    width: 400px;
+    height: 290px;
 }
-#away2{
-     color: rgb(97, 84, 84);
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     position: relative;
-     left:600px ;
-     bottom: 477px;
+#women{
+    font-size: x-large;
+    padding: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#far4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    padding: 20px;
+    position: relative;
+    bottom: 30px;
+    color: rgb(161, 155, 155);
 }
 #btn4{
-    border-radius: 30px;
+     border-radius: 30px;
     text-decoration: none;
     position: relative;
-    left: 600px;
-    bottom: 450px;
+    left: 3%;
+    bottom: 20px;
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-shadow: 5px 5px 7px black;
 }
+
 #btn4:hover{
     background-color: white;
-    color: rgb(255, 170, 0);
+    color: rgb(255, 136, 0);
     transition-duration: 1s;
        box-shadow: 5px 5px 7px black;
 }
-#by3{
-    color: rgb(97, 84, 84);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+#ministry5{
+    width: 400px;
+    height: 500px;
+    background-color: white;
     position: relative;
-    left: 1100px;
-    bottom: 660px;
+    left: 550px;
+    bottom: 1195px;
+    box-shadow: 5px 5px 7px black;
 }
-#the3{
-     color: rgb(21, 21, 21);
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     position: relative;
-     left:1100px ;
-     bottom: 640px;
+#con5{
+    width: 400px;
+    height: 290px;
 }
-#away3{
-     color: rgb(97, 84, 84);
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     position: relative;
-     left:1100px ;
-     bottom: 620px;
+#children{
+    font-size: x-large;
+    padding: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#far5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    padding: 20px;
+    position: relative;
+    bottom: 30px;
+    color: rgb(161, 155, 155);
 }
 #btn5{
-    border-radius: 30px;
+     border-radius: 30px;
     text-decoration: none;
     position: relative;
-    left: 1100px;
-    bottom: 600px;
+    left: 3%;
+    bottom: 20px;
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-shadow: 5px 5px 7px black;
 }
+
 #btn5:hover{
     background-color: white;
-    color: rgb(255, 170, 0);
+    color: rgb(255, 136, 0);
     transition-duration: 1s;
        box-shadow: 5px 5px 7px black;
 }
-#gospel1{
+#ministry6{
+    width: 400px;
+    height: 500px;
+    background-color: white;
     position: relative;
-    bottom: 780px;
-    left: 10px;
+    left: 1050px;
+    bottom: 1690px;
+    box-shadow: 5px 5px 7px black;
 }
-#img2{
-    position: relative;
-    bottom: 1400px;
+#con6{
+    width: 400px;
+    height: 290px;
 }
-#gospel2{
+#personal{
+    font-size: x-large;
+    padding: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#far6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    padding: 20px;
     position: relative;
-    bottom: 880px;
-    left: 10px;
+    bottom: 30px;
+    color: rgb(161, 155, 155);
+}
+#btn6{
+     border-radius: 30px;
+    text-decoration: none;
+    position: relative;
+    left: 3%;
+    bottom: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 5px 7px black;
+}
+
+#btn6:hover{
+    background-color: white;
+    color: rgb(255, 136, 0);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px black;
 }
 #whyus{
     width: 1513px;
     height: 930px;
     background-color: rgb(6, 93, 125);
     position: relative;
-    bottom: 1300px;
+    bottom: 00px;
 }
 #why{
     color: rgb(255, 162, 0);
@@ -294,14 +413,14 @@ body{
     bottom: 150px;
     color: white;
 }
-#far2{
+#far7{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
     left: 900px;
     bottom: 280px;
      color: rgb(152, 128, 128);
 }
-#far3{
+#far8{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
     left: 1200px;
@@ -309,21 +428,21 @@ body{
       color: rgb(152, 128, 128);
 }
 
-#far4{
+#far9{
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
     left: 900px;
     bottom: 270px;
      color: rgb(152, 128, 128);
 }
-#far5{
+#far10{
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
     left: 1200px;
     bottom: 330px;
      color: rgb(152, 128, 128);
 }
-#btn6{
+#btn7{
     border-radius: 30px;
     text-decoration: none;
     position: relative;
@@ -335,181 +454,18 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-shadow: 5px 5px 7px black;
 }
-#btn6:hover{
+#btn7:hover{
     background-color: white;
     color: rgb(255, 170, 0);
     transition-duration: 1s;
        box-shadow: 5px 5px 7px rgb(0, 0, 0);
-}
-#moni{
-    width: 1513px;
-    height: 700px;
-    background-color: rgb(245, 239, 226);
-    position: relative;
-    bottom: 1300px;
-}
-#ours{
-    width: 1300px;
-    height: 700px;
-    background-color: white;
-    position: relative;
-    left: 100px;
-    z-index: 1;
- }  
- #service{
-     color: rgb(255, 162, 0);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    position: relative;
-    left: 600px;
-    top: 100px;   
-}
-#church{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: black;
-    position: absolute;
-    left: 500px;
-}
-#wheat{
-    width: 300px;
-    height: 300px;
-    position: relative;
-    left: 100px;
-    top: 120px;
-}
-#png{
-    width: 150px;
-    height: 150px;
-    position: relative;
-    left: 300px;
-    top: 130px;
-}
-#bible2{
-    width: 150px;
-    height: 150px;
-    position: relative;
-    left: 544px;
-    top: 130px;
-}
-#praise{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: bolder;
-    position: relative;
-    left: 150px;
-    top: 60px;
-}
-#marriage{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: bolder;
-    position: relative;
-    left: 640px;
-    top: 30px;
-}
-#Exhortation{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: bolder;
-    position: relative;
-    left: 1020px;
-    top: 10px;
-}
-#blind{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    position: relative;
-    right: 400px;
-    top: 20px;
-    color: rgb(137, 133, 133);
-}
-#blind2{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    position: relative;
-    font-size: medium;
-    bottom: 65px;
-    left: 30px;
-    color: rgb(137, 133, 133);
-}
-#blind3{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    position: relative;
-    bottom: 150px;
-    left: 450px;
-    color: rgb(137, 133, 133);
-}
-#read1{
-     color: rgb(255, 162, 0);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    position: relative;
-    left: 210px;
-    bottom: 130px; 
-    text-decoration: none;
-}
-#read2{
-     color: rgb(255, 162, 0);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    position: relative;
-    left: 640px;
-    bottom: 150px; 
-    text-decoration: none; 
-}
-#read3{
-     color: rgb(255, 162, 0);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    position: relative;
-    left: 1050px;
-    bottom: 170px;  
-    text-decoration: none;
-}
-#read1:hover{
-    color: rgb(175, 114, 7) ;
-}
-#read2:hover{
-    color: rgb(175, 114, 7) ;
-}
-#read3:hover{
-    color: rgb(175, 114, 7) ;
-}
-#join{
-    width: 1513px;
-    height: 350px;
-    background-color: rgb(6, 93, 125);
-    position: relative;
-    bottom: 1400px;
-}
-#lord{
-    font-size: 50px;
-    position: relative;
-    left: 100px;
-    top: 180px;
-    font-weight: bold;
-    color: white;
-}
-#btn9{
-    border-radius: 30px;
-    text-decoration: none;
-    position: relative;
-    left: 1250px;
-    top: 130px;
-    color: rgb(255, 255, 255);
-    font-size: 15px;
-    text-decoration: none;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    box-shadow: 5px 5px 7px black;
-    width: 150px;
-    height: 50px;
-}
-#btn9:hover{
-    background-color: white;
-    color: rgb(255, 170, 0);
-    transition-duration: 1s;
-       box-shadow: 5px 5px 7px black;
 }
 #footer{
     width: 1513px;
     height: 600px;
     background-color: rgb(245, 239, 226);
     position: relative;
-    bottom: 1400px;
+    
     color: rgb(6, 93, 125);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -657,4 +613,3 @@ body{
     transition-duration: 1s;
        box-shadow: 5px 5px 7px black;
 }
-

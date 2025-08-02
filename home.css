@@ -129,7 +129,7 @@ video{
     margin-top: 500px;
 }
 #x{
-    background-color: rgb(245, 239, 226);
+    background-color: rgb(242, 233, 215);
     width: 1513px;
     height: 1800px;
     position: relative;
@@ -401,7 +401,7 @@ video{
 #moni{
     width: 1513px;
     height: 1800px;
-    background-color: rgb(245, 239, 226);
+    background-color: rgb(242, 233, 215);
     position: relative;
     bottom: 450px;
 }
