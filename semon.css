@@ -1,0 +1,33 @@
+#navbar{
+    background-color: rgb(6, 93, 125);
+    width: 1513px;
+    height: 500px;
+}
+#ipcg{
+    color: rgb(249, 246, 246);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#b{
+    color:rgb(125, 126, 128);
+    text-decoration: none;
+    font-size: 20px;
+}#navbar2{
+    display: flex;
+    gap:30px ;
+    position: relative; 
+    left: 1000px;
+}
+#sermons{
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 100px;
+}
