@@ -13,12 +13,15 @@
 }
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      overflow-inline: hidden;
 }
 #b{
     color:rgb(125, 126, 128);
     text-decoration: none;
     font-size: 20px;
-}#navbar2{
+    font-weight: bold;
+}
+#navbar2{
     display: flex;
     gap:30px ;
     position: relative; 
@@ -31,3 +34,626 @@ body{
     text-align: center;
     padding-top: 100px;
 }
+#home{
+    text-decoration: none;
+    color: rgb(239, 75, 16);
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+   right: 50px;
+}
+#home:hover{
+   color: rgb(135, 81, 33);
+}
+#q{
+    color: rgb(124, 124, 124);
+    position: relative;
+    left: 740px;
+    bottom: 30px;
+    font-size: 20px;
+}
+#ser1{
+    text-decoration: none;
+     color: rgb(124, 124, 124);
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 60px;
+    left: 40px;
+}
+#x{
+    background-color: rgb(245, 239, 226);
+    width: 1513px;
+    height: 1800px;
+    position: relative;
+    padding-top: 100px;  
+}
+#ser{
+    color: rgb(255, 162, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 50%;
+    bottom:10px;   
+}
+#recent{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    position: relative;
+    left: 620px;
+    top: 0%;
+    font-size: 50px;
+}
+#coc{
+    width: 480px;
+    height: 300px;
+    padding-left: 50px;
+    position: relative;
+    top: 100px;
+    
+    padding-left: 100px;
+}
+#by{
+    color: rgb(97, 84, 84);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 100px;
+    bottom: 370px;
+}
+#the{
+     color: rgb(16, 16, 16);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     position: relative;
+     left:100px ;
+     bottom: 355px;
+}
+#away{
+     color: rgb(97, 84, 84);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     position: relative;
+     left:100px ;
+     bottom: 330px;
+}
+#btn3{
+    border-radius: 30px;
+    text-decoration: none;
+    position: relative;
+    left: 100px;
+    bottom: 310px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 5px 7px black;
+}
+#btn3:hover{
+    background-color: white;
+    color: rgb(255, 170, 0);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px black;
+}
+#by2{
+    color: rgb(97, 84, 84);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 600px;
+    bottom: 517px;
+}
+#the2{
+     color: rgb(11, 11, 11);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     position: relative;
+     left:600px ;
+     bottom: 500px;
+}
+#away2{
+     color: rgb(97, 84, 84);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     position: relative;
+     left:600px ;
+     bottom: 477px;
+}
+#btn4{
+    border-radius: 30px;
+    text-decoration: none;
+    position: relative;
+    left: 600px;
+    bottom: 450px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 5px 7px black;
+}
+#btn4:hover{
+    background-color: white;
+    color: rgb(255, 170, 0);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px black;
+}
+#by3{
+    color: rgb(97, 84, 84);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 1100px;
+    bottom: 660px;
+}
+#the3{
+     color: rgb(21, 21, 21);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     position: relative;
+     left:1100px ;
+     bottom: 640px;
+}
+#away3{
+     color: rgb(97, 84, 84);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     position: relative;
+     left:1100px ;
+     bottom: 620px;
+}
+#btn5{
+    border-radius: 30px;
+    text-decoration: none;
+    position: relative;
+    left: 1100px;
+    bottom: 600px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 5px 7px black;
+}
+#btn5:hover{
+    background-color: white;
+    color: rgb(255, 170, 0);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px black;
+}
+#gospel1{
+    position: relative;
+    bottom: 780px;
+    left: 10px;
+}
+#img2{
+    position: relative;
+    bottom: 1400px;
+}
+#gospel2{
+    position: relative;
+    bottom: 880px;
+    left: 10px;
+}
+#whyus{
+    width: 1513px;
+    height: 930px;
+    background-color: rgb(6, 93, 125);
+    position: relative;
+    bottom: 1300px;
+}
+#why{
+    color: rgb(255, 162, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 150px;
+    top: 150px;   
+}
+#you{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(5, 5, 5);
+    position: relative;
+    top: 200px;
+    left: 150px;    
+    font-size: 50px;
+    color: white;
+}
+#matter{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    left: 150px;
+    top: 250px;
+}
+#behind{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 900px;
+    bottom: 320px;
+    color: white;
+}
+#god{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bolder ;
+    position: relative;
+    left:900px ;
+    bottom: 220px;
+    color: white;
+}
+#soul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    position: relative;
+    left:1200px ;
+    bottom: 240px;
+    color: white;
+}
+#limit{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    position: relative;
+    left:900px ;
+    bottom: 130px;
+    color: white;
+}
+#king{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    position: relative;
+    left:1200px ;
+    bottom: 150px;
+    color: white;
+}
+#far2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 900px;
+    bottom: 280px;
+     color: rgb(152, 128, 128);
+}
+#far3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 1200px;
+    bottom: 340px;
+      color: rgb(152, 128, 128);
+}
+
+#far4{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 900px;
+    bottom: 270px;
+     color: rgb(152, 128, 128);
+}
+#far5{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 1200px;
+    bottom: 330px;
+     color: rgb(152, 128, 128);
+}
+#btn6{
+    border-radius: 30px;
+    text-decoration: none;
+    position: relative;
+    left: 900px;
+    bottom: 250px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 5px 7px black;
+}
+#btn6:hover{
+    background-color: white;
+    color: rgb(255, 170, 0);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px rgb(0, 0, 0);
+}
+#moni{
+    width: 1513px;
+    height: 700px;
+    background-color: rgb(245, 239, 226);
+    position: relative;
+    bottom: 1300px;
+}
+#ours{
+    width: 1300px;
+    height: 700px;
+    background-color: white;
+    position: relative;
+    left: 100px;
+    z-index: 1;
+ }  
+ #service{
+     color: rgb(255, 162, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 600px;
+    top: 100px;   
+}
+#church{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    position: absolute;
+    left: 500px;
+}
+#wheat{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 100px;
+    top: 120px;
+}
+#png{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 300px;
+    top: 130px;
+}
+#bible2{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 544px;
+    top: 130px;
+}
+#praise{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    position: relative;
+    left: 150px;
+    top: 60px;
+}
+#marriage{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    position: relative;
+    left: 640px;
+    top: 30px;
+}
+#Exhortation{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    position: relative;
+    left: 1020px;
+    top: 10px;
+}
+#blind{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    position: relative;
+    right: 400px;
+    top: 20px;
+    color: rgb(137, 133, 133);
+}
+#blind2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    position: relative;
+    font-size: medium;
+    bottom: 65px;
+    left: 30px;
+    color: rgb(137, 133, 133);
+}
+#blind3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+    left: 450px;
+    color: rgb(137, 133, 133);
+}
+#read1{
+     color: rgb(255, 162, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 210px;
+    bottom: 130px; 
+    text-decoration: none;
+}
+#read2{
+     color: rgb(255, 162, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 640px;
+    bottom: 150px; 
+    text-decoration: none; 
+}
+#read3{
+     color: rgb(255, 162, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 1050px;
+    bottom: 170px;  
+    text-decoration: none;
+}
+#read1:hover{
+    color: rgb(175, 114, 7) ;
+}
+#read2:hover{
+    color: rgb(175, 114, 7) ;
+}
+#read3:hover{
+    color: rgb(175, 114, 7) ;
+}
+#join{
+    width: 1513px;
+    height: 350px;
+    background-color: rgb(6, 93, 125);
+    position: relative;
+    bottom: 1400px;
+}
+#lord{
+    font-size: 50px;
+    position: relative;
+    left: 100px;
+    top: 180px;
+    font-weight: bold;
+    color: white;
+}
+#btn9{
+    border-radius: 30px;
+    text-decoration: none;
+    position: relative;
+    left: 1250px;
+    top: 130px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 5px 7px black;
+    width: 150px;
+    height: 50px;
+}
+#btn9:hover{
+    background-color: white;
+    color: rgb(255, 170, 0);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px black;
+}
+#footer{
+    width: 1513px;
+    height: 600px;
+    background-color: rgb(245, 239, 226);
+    position: relative;
+    bottom: 1400px;
+    color: rgb(6, 93, 125);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#contact{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 150px;
+    top: 100px;
+    font-weight: bold;
+}
+#sources{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 600px;
+    top: 68px;
+    font-weight: bold;
+}
+#links{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 1100px;
+    top: 35px;
+    font-weight: bold;
+}
+#ray{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(96, 90, 90);
+    position: relative;
+    left: 150px;
+    top: 90px;
+}
+#number{
+    color: rgb(96, 90, 90);
+    position: relative;
+    left: 150px;
+    top: 110px;
+    line-height: 20px;
+    text-decoration: none;
+}
+#number:hover{
+     text-decoration: underline ;
+     text-decoration-color: rgba(255, 128, 0, 0.699);
+    color: black;  
+    text-decoration-thickness: 3px;
+}
+#vision{
+    color: rgb(96, 90, 90);
+    position: relative;
+    left: 600px;
+    bottom: 50px;
+    line-height: 20px;
+    text-decoration: none;
+}
+#vision:hover{
+     text-decoration: underline ;
+     text-decoration-color: rgb(255, 111, 0);
+    color: black;  
+    text-decoration-thickness: 3px;
+}
+#partner{
+    color: rgb(96, 90, 90);
+    position: relative;
+    left: 800px;
+    bottom: 266px;
+    line-height: 20px;
+    text-decoration: none;
+}
+#partner:hover{
+     text-decoration: underline ;
+     text-decoration-color: rgb(255, 111, 0);
+    color: black;  
+    text-decoration-thickness: 3px;
+}
+#vision2{
+    color: rgb(96, 90, 90);
+    position: relative;
+    left: 1100px;
+    bottom: 483px;
+    line-height: 20px;
+    text-decoration: none;
+}
+#vision2:hover{
+     text-decoration: underline ;
+     text-decoration-color: rgb(255, 111, 0);
+    color: black;  
+    text-decoration-thickness: 3px;
+}
+#copy{
+     position: relative;
+     text-align: center;
+     bottom: 260px;
+      color: rgb(96, 90, 90);
+}
+#insta{
+    position: relative;
+    left: 1100px;
+    bottom: 520px;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    align-items: center;
+    padding-top: 25px;
+    color: rgb(131, 125, 125);
+}
+#youtube{
+     position: relative;
+    left: 1110px;
+    bottom: 520px;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    align-items: center;
+    padding-top: 25px;
+     color: rgb(131, 125, 125);
+}
+#facebook{
+     position: relative;
+    left: 1120px;
+    bottom: 520px;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    align-items: center;
+    padding-top: 25px;
+     color: rgb(131, 125, 125);
+}
+#insta:hover{
+    color: white;
+    background-color: rgb(236, 184, 80);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px black;
+}
+#youtube:hover{
+    color: white;
+    background-color: rgb(236, 184, 80);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px black;
+}
+#facebook:hover{
+    color: white;
+    background-color: rgb(236, 184, 80);
+    transition-duration: 1s;
+       box-shadow: 5px 5px 7px black;
+}
+
