@@ -20,6 +20,7 @@ body{
     text-decoration: none;
     font-size: 20px;
     font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #navbar2{
     display: flex;
@@ -33,6 +34,7 @@ body{
     font-size: 60px;
     text-align: center;
     padding-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #home{
     text-decoration: none;
@@ -40,9 +42,10 @@ body{
     text-align: center;
     position: relative;
     right: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #home:hover{
-    color: rgb(54, 18, 5);
+    color: rgb(117, 94, 76);
 }
 #q{
     color: rgb(124, 124, 124);
@@ -50,6 +53,7 @@ body{
     left: 740px;
     bottom: 30px;
     font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #ser1{
     text-decoration: none;
@@ -59,6 +63,7 @@ body{
     position: relative;
     bottom: 60px;
     left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #moni{
     width: 1513px;

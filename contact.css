@@ -1,0 +1,94 @@
+*{
+    margin: 0%;
+}
+
+
+#navbar{
+    background-color: rgb(6, 93, 125);
+    width: 1513px;
+    height: 500px;
+}
+#ipcg{
+    color: rgb(249, 246, 246);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      overflow-inline: hidden;
+}
+#b{
+    color:rgb(125, 126, 128);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#navbar2{
+    display: flex;
+    gap:30px ;
+    position: relative; 
+    left: 1000px;
+}
+#sermons{
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#home{
+    left: 680px;
+    color: orangered;
+    text-decoration: none;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#home:hover{
+    color: rgb(117, 94, 76);
+}
+#q{
+    color: rgb(124, 124, 124);
+    position: relative;
+    left: 740px;
+    bottom: 30px;
+    font-size: 20px;
+}
+#ser1{
+    text-decoration: none;
+     color: rgb(124, 124, 124);
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 60px;
+    left: 40px;
+}
+#moni{
+    width: 1513px;
+    height: 550px;
+    background-color: rgb(245, 243, 239); 
+}
+#touch{
+    position: relative;
+    left: 150px;
+    top: 100px;
+}
+#name{
+    position: relative;
+    left: 150px;
+    top: 150px;
+    color: rgb(144, 132, 132);
+}
+#box{
+    position: relative;
+    left: 75px;
+    top: 200px;
+    background-color: rgb(225, 224, 222);
+    border-color: transparent;
+    height: 60px;
+    width: 250px;
+}
